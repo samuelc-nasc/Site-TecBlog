@@ -19,17 +19,14 @@ body {
 }
 
 /* letrario */
-.tec {
-    color: #4E4E4E;
-}
-
 .blog {
-    color: #FFFCF6;
+    color: #FFFFFF;
 }
 
 h1 {
     display: inline;
     font-size: 40px;
+    color: #4E4E4E;
 }
 /* letrario */
 
